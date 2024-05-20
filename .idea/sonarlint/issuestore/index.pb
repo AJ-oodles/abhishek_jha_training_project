@@ -1,0 +1,19 @@
+
+@
+build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+I
+gradle/libs.versions.toml,d/7/d7595319a0658be6f1ed500ad590d42e4b28bc4f
+{
+Kapp/src/main/java/com/example/abhishek_jha_training_project/MainActivity.kt,d/8/d80daa02fcafadc57eb5649eb8fbcd81fbd4bb94
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+y
+Iapp/src/main/java/com/example/abhishek_jha_training_project/ApiService.kt,5/d/5d38903703aa7d77a91f14052081fffcdc0fba22
+u
+Eapp/src/main/java/com/example/abhishek_jha_training_project/MyData.kt,1/0/1038393f864a38600323e67d7c9a94f9a8fa0da0
+y
+Iapp/src/main/java/com/example/abhishek_jha_training_project/MyDataItem.kt,4/1/411e87b4ebdde1cf4d8c9406f67e634028ee9352
+x
+Happ/src/main/java/com/example/abhishek_jha_training_project/MyAdapter.kt,c/c/ccb3315731520e586e1cd622005ee15e3814c317
